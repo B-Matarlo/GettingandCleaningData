@@ -1,7 +1,7 @@
 # GettingandCleaningData
-Project for Coursera
+Coursera: Getting and Cleaning Data
 
-Data Course Project
+Course Project
 
 Data used in project can be found at:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
